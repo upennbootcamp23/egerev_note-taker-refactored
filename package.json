@@ -1,0 +1,31 @@
+{
+  "name": "egerev_note-taker-refactored",
+  "version": "1.0.1",
+  "description": "A place where you can write, save, and/or delete notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upennbootcamp23/egerev_note-taker-refactored.git"
+  },
+  "keywords": [
+    "Add",
+    "Save",
+    "Delete",
+    "Notes",
+    "Server"
+  ],
+  "author": "Alexander Egerev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upennbootcamp23/egerev_note-taker-refactored/issues"
+  },
+  "homepage": "https://github.com/upennbootcamp23/egerev_note-taker-refactored#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
