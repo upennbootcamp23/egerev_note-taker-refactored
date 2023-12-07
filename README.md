@@ -1,0 +1,1 @@
+# egerev_note-taker-refactored
