@@ -1,6 +1,9 @@
-# Alex Egerev's JavaScript Quiz Webpage
+# Alex Egerev's Note Taker Webpage
 
-[insert images here]
+![image](https://github.com/upennbootcamp23/egerev_note-taker-refactored/assets/143010411/8b275968-966f-46cd-a9bf-17b81f9f2b21)
+
+![image](https://github.com/upennbootcamp23/egerev_note-taker-refactored/assets/143010411/4737e11f-f454-409a-89c7-2d0fd8b64944)
+
 
 ## Description
 
