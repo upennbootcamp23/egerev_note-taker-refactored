@@ -8,7 +8,7 @@ const app = express();
 
 
 // Port
-const PORT = 3001; //or process.env.PORT
+const PORT = process.env.PORT || 3001
 
 
 // JSON file & it's path
